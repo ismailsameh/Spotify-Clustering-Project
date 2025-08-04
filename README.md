@@ -26,8 +26,7 @@ The dataset includes over **232,000 songs** with features such as tempo, energy,
 
 ## 🔗 Links
 - [Kaggle Notebook](https://www.kaggle.com/)  
-- [Coursera Certificate](https://www.coursera.org/)  
-- [Project Report (PDF)](link-to-pdf)
+- [Coursera Certificate]([https://www.coursera.org/](https://www.coursera.org/account/accomplishments/verify/7YL772SVUXLL))  
 
 ## ✍️ Author
 Ismail — AI Graduate from AOU, Egypt 🇪🇬  
