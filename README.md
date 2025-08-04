@@ -25,7 +25,7 @@ The dataset includes over **232,000 songs** with features such as tempo, energy,
 - `SpotifyFeatures.csv`: Raw dataset used in the project
 
 ## 🔗 Links
-- [Kaggle Notebook](https://www.kaggle.com/)  
+- [Kaggle Notebook]([https://www.kaggle.com/](https://www.kaggle.com/code/esmailelhariri/spotify-clustering-project))  
 - [Coursera Certificate]([https://www.coursera.org/](https://www.coursera.org/account/accomplishments/verify/7YL772SVUXLL))  
 
 ## ✍️ Author
